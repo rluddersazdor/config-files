@@ -1,0 +1,1 @@
+/opt/nessus_agent/sbin/nessuscli agent link --key=5573acac5d1036168d85e17bf7488846df091895a32738629dd2b7aae4f6faca --groups= Linux Servers --host=ppw6nessus02 --port=8834
